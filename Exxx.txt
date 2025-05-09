@@ -1,0 +1,6 @@
+1. Run the code and understand what each part does.
+2. Write a short report (3–5 sentences) explaining:
+- What was the goal of your model?
+- How well did it perform (accuracy, precision, recall)?
+- What can you conclude from the results?
+3. Take a screenshot of the confusion matrix and probability graph.
